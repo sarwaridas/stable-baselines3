@@ -82,6 +82,7 @@ setup(
         "pandas",
         # Plotting learning curves
         "matplotlib",
+        "importlib-metadata==4.13.0"
     ],
     extras_require={
         "tests": [
